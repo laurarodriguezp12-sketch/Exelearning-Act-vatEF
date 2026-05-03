@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260503124510SL2FYC</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605031245100WWVEW</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>ActívateEF</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>¿Sabías que moverte cada día puede mejorar tu salud y tu bienestar?</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Laura Rodríguez Pérez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777571353177</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>ce7f85f4-ab2b-46cd-8caf-d14497843af0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Inicio</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>ce7f85f4-ab2b-46cd-8caf-d14497843af0</odePageId>
+      <odeBlockId>block-1777571088684-sugf59c2u</odeBlockId>
+      <blockName>¿Qué es esto?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>ce7f85f4-ab2b-46cd-8caf-d14497843af0</odePageId>
+          <odeBlockId>block-1777571088684-sugf59c2u</odeBlockId>
+          <odeIdeviceId>idevice-1777571088680-hsb1n7fkh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Bienvenido/a a ActívatEF</strong></p>
+<p>¿Sabías que moverte cada día puede mejorar tu salud y tu bienestar?</p>
+<p>En este proyecto aprenderás a:</p>
+<p>Mejorar tus hábitos saludables.<br />Realizar actividad física de forma consciente.<br />Usar la tecnología de manera responsable y segura.<br />Registrar tus progresos en un diario digital.<br />Durante las próximas sesiones investigarás, te moverás, trabajarás en equipo y crearás tu propio diario ActívatEF.</p>
+<p><strong>¿Estás preparado/a para activarte?</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571088680-hsb1n7fkh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Bienvenido/a a ActívatEF</strong></p>\n<p>¿Sabías que moverte cada día puede mejorar tu salud y tu bienestar?</p>\n<p>En este proyecto aprenderás a:</p>\n<p>Mejorar tus hábitos saludables.<br />Realizar actividad física de forma consciente.<br />Usar la tecnología de manera responsable y segura.<br />Registrar tus progresos en un diario digital.<br />Durante las próximas sesiones investigarás, te moverás, trabajarás en equipo y crearás tu propio diario ActívatEF.</p>\n<p><strong>¿Estás preparado/a para activarte?</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777571149608-x9qtqeebs</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777571149608-x9qtqeebs</odePageId>
+      <odeBlockId>block-1777571273991-i2vr6998k</odeBlockId>
+      <blockName>¿Quiénes somos?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571149608-x9qtqeebs</odePageId>
+          <odeBlockId>block-1777571273991-i2vr6998k</odeBlockId>
+          <odeIdeviceId>idevice-1777571273989-9ww54op2l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este proyecto se llama <strong>ActívatEF </strong>y tiene como objetivo ayudarte a conocer y mejorar tus hábitos de vida saludable.</p>
+<p>A lo largo de este proyecto:</p>
+<p>Investigarás sobre la importancia de la actividad física<br />Participarás en diferentes actividades y retos motrices<br />Registrarás tus progresos y sensaciones<br />Aprenderás a usar herramientas digitales de forma responsable<br />El objetivo es que seas consciente de la importancia de cuidarte y mantener un estilo de vida activo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571273989-9ww54op2l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este proyecto se llama <strong>ActívatEF </strong>y tiene como objetivo ayudarte a conocer y mejorar tus hábitos de vida saludable.</p>\n<p>A lo largo de este proyecto:</p>\n<p>Investigarás sobre la importancia de la actividad física<br />Participarás en diferentes actividades y retos motrices<br />Registrarás tus progresos y sensaciones<br />Aprenderás a usar herramientas digitales de forma responsable<br />El objetivo es que seas consciente de la importancia de cuidarte y mantener un estilo de vida activo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777571156579-wwn8ct3nq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777571156579-wwn8ct3nq</odePageId>
+      <odeBlockId>block-1777571310390-lu613qbop</odeBlockId>
+      <blockName>Diario digital ActívatEF</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571156579-wwn8ct3nq</odePageId>
+          <odeBlockId>block-1777571310390-lu613qbop</odeBlockId>
+          <odeIdeviceId>idevice-1777571310387-1fmzsuxyf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Al final del proyecto, crearás tu propio <strong>diario digital ActívatEF.</strong></p>
+<p>En él tendrás que incluir:</p>
+<p>Las actividades físicas que has realizado<br />El tiempo dedicado<br />Cómo te has sentido en cada sesión<br />Qué aspectos puedes mejorar<br />Este diario te ayudará a reflexionar sobre tus hábitos y tu salud, y a ser más consciente de tu progreso.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571310387-1fmzsuxyf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al final del proyecto, crearás tu propio <strong>diario digital ActívatEF.</strong></p>\n<p>En él tendrás que incluir:</p>\n<p>Las actividades físicas que has realizado<br />El tiempo dedicado<br />Cómo te has sentido en cada sesión<br />Qué aspectos puedes mejorar<br />Este diario te ayudará a reflexionar sobre tus hábitos y tu salud, y a ser más consciente de tu progreso.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777571165126-sa6lkif3e</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad digital</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777571165126-sa6lkif3e</odePageId>
+      <odeBlockId>block-1777571385918-eu2wr81bq</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571165126-sa6lkif3e</odePageId>
+          <odeBlockId>block-1777571385918-eu2wr81bq</odeBlockId>
+          <odeIdeviceId>idevice-1777571385915-o2qhqk7yi</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Protege tus datos</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">No compartas información personal como:</span></span></p>
+<p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Dirección </span></span><br><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Teléfono </span></span><br><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Datos privados</span></span></p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Uso responsable</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Respeta a los demás </span></span></span></span><br><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">No publiques sin permiso </span></span></span></span><br><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Piensa antes de compartir</span></span></span></span></p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Evita riesgos</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">No hables con desconocidos </span></span><br><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">No abras enlaces sospechosos </span></span><br><span dir="auto" style="vertical-align: inherit;"><span dir="auto" style="vertical-align: inherit;">Pide ayuda si algo no te gusta</span></span></p></div></div></section><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Respeto digital</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>No copies contenido<br>Respeta imágenes<br>Cuida tu identidad digital</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777571165126-sa6lkif3e</odePageId>
+      <odeBlockId>block-1777571491012-8ikmaoyxk</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571165126-sa6lkif3e</odePageId>
+          <odeBlockId>block-1777571491012-8ikmaoyxk</odeBlockId>
+          <odeIdeviceId>idevice-1777571491010-v3xi0wzf4</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777571491010-v3xi0wzf4" title="" href="asset://5c4bd6be-49e3-34ec-7cb2-2cc55ab3595a.png" class="imageLink">  <div class="imageElement">   <img src="asset://5c4bd6be-49e3-34ec-7cb2-2cc55ab3595a.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571491010-v3xi0wzf4","img_0":{"img":"asset://5c4bd6be-49e3-34ec-7cb2-2cc55ab3595a.png","thumbnail":"asset://5c4bd6be-49e3-34ec-7cb2-2cc55ab3595a.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777571174573-ed84ko3v0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el alumnado</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777571174573-ed84ko3v0</odePageId>
+      <odeBlockId>block-1777571574013-xewf4pssx</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571174573-ed84ko3v0</odePageId>
+          <odeBlockId>block-1777571574013-xewf4pssx</odeBlockId>
+          <odeIdeviceId>idevice-1777571574011-g9lrumrga</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/nfncogmbbcayp1mk" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Hecho con Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571574011-g9lrumrga","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/nfncogmbbcayp1mk\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Hecho con Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777571183618-7fr2qj3dv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos para el profesorado</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos para el profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777571183618-7fr2qj3dv</odePageId>
+      <odeBlockId>block-1777571630526-6totkh0ix</odeBlockId>
+      <blockName>Symbaloo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571183618-7fr2qj3dv</odePageId>
+          <odeBlockId>block-1777571630526-6totkh0ix</odeBlockId>
+          <odeIdeviceId>idevice-1777571630523-g0yq6s3nf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este espacio se recogen herramientas digitales útiles para el desarrollo del proyecto ActívatEF y la práctica docente en Educación Física.</p>
+<p>Puedes acceder a ellas pinchando aquí:</p>
+<p><a href="https://www.symbaloo.com/home/mix/13eOhRQJNj" title="">Accede aquí a los recursos digitales</a></p>
+<p><br /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571630523-g0yq6s3nf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este espacio se recogen herramientas digitales útiles para el desarrollo del proyecto ActívatEF y la práctica docente en Educación Física.</p>\n<p>Puedes acceder a ellas pinchando aquí:</p>\n<p><a href=\"https://www.symbaloo.com/home/mix/13eOhRQJNj\" title=\"\">Accede aquí a los recursos digitales</a></p>\n<p><br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777571190996-rb4hkpzcg</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777571190996-rb4hkpzcg</odePageId>
+      <odeBlockId>block-1777571752017-sclr224eh</odeBlockId>
+      <blockName>Mapa mental</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571190996-rb4hkpzcg</odePageId>
+          <odeBlockId>block-1777571752017-sclr224eh</odeBlockId>
+          <odeIdeviceId>idevice-1777571752016-ay1zbp1me</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación se muestra la organización del proyecto ActívatEF a lo largo de las sesiones, indicando las actividades, agrupamientos y herramientas utilizadas.</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIP80YDeA/hedHCC96i5hHbypKZKCbqg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHIP80YDeA/hedHCC96i5hHbypKZKCbqg/view?utm_content=DAHIP80YDeA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Mapa Mental Lluvia de Ideas Proyecto Infantil Ilustrado Multicolor</a> de Laura Rodriguez</p>
+<p></p>
+<p>Esta organización es flexible y permite adaptarse a las necesidades del alumnado, favoreciendo el trabajo cooperativo y el uso responsable de las tecnologías digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571752016-ay1zbp1me","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación se muestra la organización del proyecto ActívatEF a lo largo de las sesiones, indicando las actividades, agrupamientos y herramientas utilizadas.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIP80YDeA/hedHCC96i5hHbypKZKCbqg/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIP80YDeA/hedHCC96i5hHbypKZKCbqg/view?utm_content=DAHIP80YDeA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Mapa Mental Lluvia de Ideas Proyecto Infantil Ilustrado Multicolor</a> de Laura Rodriguez</p>\n<p></p>\n<p>Esta organización es flexible y permite adaptarse a las necesidades del alumnado, favoreciendo el trabajo cooperativo y el uso responsable de las tecnologías digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777571202008-wcbn7byrn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tareas y criterios de evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas y criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777571202008-wcbn7byrn</odePageId>
+      <odeBlockId>block-1777571908368-zxf94jyh3</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571202008-wcbn7byrn</odePageId>
+          <odeBlockId>block-1777571908368-zxf94jyh3</odeBlockId>
+          <odeIdeviceId>idevice-1777571908366-q5rmz4pzs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Durante el desarrollo del proyecto ActívatEF se utilizarán diferentes instrumentos de evaluación para valorar el aprendizaje del alumnado de forma completa.</p>
+<p><strong>Evaluación del proyecto ActívatEF</strong></p>
+<p>Durante el desarrollo del proyecto se evaluará el aprendizaje del alumnado mediante diferentes instrumentos.</p>
+<p>Se tendrán en cuenta:</p>
+<p>La participación activa en las actividades<br />El esfuerzo y la implicación<br />La mejora de los hábitos saludables<br />La elaboración del diario digital<br />Para ello se utilizarán diferentes herramientas como la rúbrica, el exit ticket y cuestionarios digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571908366-q5rmz4pzs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Durante el desarrollo del proyecto ActívatEF se utilizarán diferentes instrumentos de evaluación para valorar el aprendizaje del alumnado de forma completa.</p>\n<p><strong>Evaluación del proyecto ActívatEF</strong></p>\n<p>Durante el desarrollo del proyecto se evaluará el aprendizaje del alumnado mediante diferentes instrumentos.</p>\n<p>Se tendrán en cuenta:</p>\n<p>La participación activa en las actividades<br />El esfuerzo y la implicación<br />La mejora de los hábitos saludables<br />La elaboración del diario digital<br />Para ello se utilizarán diferentes herramientas como la rúbrica, el exit ticket y cuestionarios digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777571202008-wcbn7byrn</odePageId>
+      <odeBlockId>block-1777572762448-0c98efshg</odeBlockId>
+      <blockName>Tabla</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571202008-wcbn7byrn</odePageId>
+          <odeBlockId>block-1777572762448-0c98efshg</odeBlockId>
+          <odeIdeviceId>idevice-1777572762446-4mclnnyhe</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777572762446-4mclnnyhe" title="" href="asset://fa948933-7a48-bca8-542a-313b8d50bf52.png" class="imageLink">  <div class="imageElement">   <img src="asset://fa948933-7a48-bca8-542a-313b8d50bf52.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777572762446-4mclnnyhe","img_0":{"img":"asset://fa948933-7a48-bca8-542a-313b8d50bf52.png","thumbnail":"asset://fa948933-7a48-bca8-542a-313b8d50bf52.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777571212731-9hkvdhz5h</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777571212731-9hkvdhz5h</odePageId>
+      <odeBlockId>block-1777571936965-5eahoen3v</odeBlockId>
+      <blockName>Rúbrica de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571212731-9hkvdhz5h</odePageId>
+          <odeBlockId>block-1777571936965-5eahoen3v</odeBlockId>
+          <odeIdeviceId>idevice-1777571936964-x6b2b0f3s</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777571936964-x6b2b0f3s" title="" href="asset://cb7554c1-c5c6-2a72-f431-24ab57fdea1f.png" class="imageLink">  <div class="imageElement">   <img src="asset://cb7554c1-c5c6-2a72-f431-24ab57fdea1f.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571936964-x6b2b0f3s","img_0":{"img":"asset://cb7554c1-c5c6-2a72-f431-24ab57fdea1f.png","thumbnail":"asset://cb7554c1-c5c6-2a72-f431-24ab57fdea1f.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777571212731-9hkvdhz5h</odePageId>
+      <odeBlockId>block-1777572034298-4007yumfr</odeBlockId>
+      <blockName>Autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571212731-9hkvdhz5h</odePageId>
+          <odeBlockId>block-1777572034298-4007yumfr</odeBlockId>
+          <odeIdeviceId>idevice-1777572034296-wmui0o884</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Exit-Ticket (reflexión final):</p>
+<p>Al finalizar algunas sesiones, el alumnado responderá a preguntas breves como:</p>
+<p>¿Qué he aprendido hoy?<br />¿Qué me ha resultado más difícil?<br />¿Cómo me he sentido?<br />¿Qué puedo mejorar?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777572034296-wmui0o884","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Exit-Ticket (reflexión final):</p>\n<p>Al finalizar algunas sesiones, el alumnado responderá a preguntas breves como:</p>\n<p>¿Qué he aprendido hoy?<br />¿Qué me ha resultado más difícil?<br />¿Cómo me he sentido?<br />¿Qué puedo mejorar?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777571212731-9hkvdhz5h</odePageId>
+      <odeBlockId>block-1777572242014-rn2wxuahc</odeBlockId>
+      <blockName>Ticket de salida</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571212731-9hkvdhz5h</odePageId>
+          <odeBlockId>block-1777572242014-rn2wxuahc</odeBlockId>
+          <odeIdeviceId>idevice-1777572242012-refhzuaho</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777572242012-refhzuaho" title="" href="asset://d986eb36-b8a2-e70c-6cbd-b4e74ed9366b.png" class="imageLink">  <div class="imageElement">   <img src="asset://d986eb36-b8a2-e70c-6cbd-b4e74ed9366b.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777572242012-refhzuaho","img_0":{"img":"asset://d986eb36-b8a2-e70c-6cbd-b4e74ed9366b.png","thumbnail":"asset://d986eb36-b8a2-e70c-6cbd-b4e74ed9366b.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777571212731-9hkvdhz5h</odePageId>
+      <odeBlockId>block-1777572333673-ce1484lag</odeBlockId>
+      <blockName>Kahoot</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777571212731-9hkvdhz5h</odePageId>
+          <odeBlockId>block-1777572333673-ce1484lag</odeBlockId>
+          <odeIdeviceId>idevice-1777572333672-oyi920fce</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se utilizará un cuestionario digital mediante Kahoot para evaluar los conocimientos adquiridos sobre hábitos saludables y el uso responsable de la tecnología.</p>
+<p>Puedes acceder al cuestionario en el siguiente enlace:</p>
+<p><a href="https://create.kahoot.it/share/activatef/f1044e00-97c9-4516-afcf-b1edbc99d868" title=""> Accede aquí al kahoot</a></p>
+<p>Este cuestionario permite obtener resultados inmediatos, facilitando la evaluación del aprendizaje del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777572333672-oyi920fce","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se utilizará un cuestionario digital mediante Kahoot para evaluar los conocimientos adquiridos sobre hábitos saludables y el uso responsable de la tecnología.</p>\n<p>Puedes acceder al cuestionario en el siguiente enlace:</p>\n<p><a href=\"https://create.kahoot.it/share/activatef/f1044e00-97c9-4516-afcf-b1edbc99d868\" title=\"\"> Accede aquí al kahoot</a></p>\n<p>Este cuestionario permite obtener resultados inmediatos, facilitando la evaluación del aprendizaje del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777572596306-hwmy41f7f</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777572596306-hwmy41f7f</odePageId>
+      <odeBlockId>block-1777574412038-xjtmu5jyu</odeBlockId>
+      <blockName>Guía didáctica del proyecto ActívatEF</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777572596306-hwmy41f7f</odePageId>
+          <odeBlockId>block-1777574412038-xjtmu5jyu</odeBlockId>
+          <odeIdeviceId>idevice-1777574412037-pupudit97</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta propuesta está dirigida al alumnado de 6º de Educación Primaria en el área de Educación Física.</p>
+<p>El objetivo principal es fomentar hábitos de vida saludable mediante la actividad física, la reflexión personal y el uso responsable de las tecnologías digitales.<img src="asset://fa948933-7a48-bca8-542a-313b8d50bf52.png" width="1440" height="813" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777574412037-pupudit97","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta propuesta está dirigida al alumnado de 6º de Educación Primaria en el área de Educación Física.</p>\n<p>El objetivo principal es fomentar hábitos de vida saludable mediante la actividad física, la reflexión personal y el uso responsable de las tecnologías digitales.<img src=\"asset://fa948933-7a48-bca8-542a-313b8d50bf52.png\" width=\"1440\" height=\"813\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777572596306-hwmy41f7f</odePageId>
+      <odeBlockId>block-1777574567977-53pk01zr5</odeBlockId>
+      <blockName>Organización</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777572596306-hwmy41f7f</odePageId>
+          <odeBlockId>block-1777574567977-53pk01zr5</odeBlockId>
+          <odeIdeviceId>idevice-1777574567976-ll67dxsi7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El proyecto se organiza en diferentes tareas que permiten desarrollar las competencias del alumnado de forma progresiva.</p>
+<p>Se utilizan metodologías activas que favorecen la participación, el aprendizaje significativo y el trabajo cooperativo.</p>
+<p>Se integran herramientas digitales como Canva, Padlet o Kahoot, permitiendo al alumnado desarrollar su competencia digital de forma responsable, segura y crítica.</p>
+<p>Se tienen en cuenta los principios del Diseño Universal para el Aprendizaje (DUA), favoreciendo la inclusión y la atención a la diversidad del alumnado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777574567976-ll67dxsi7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El proyecto se organiza en diferentes tareas que permiten desarrollar las competencias del alumnado de forma progresiva.</p>\n<p>Se utilizan metodologías activas que favorecen la participación, el aprendizaje significativo y el trabajo cooperativo.</p>\n<p>Se integran herramientas digitales como Canva, Padlet o Kahoot, permitiendo al alumnado desarrollar su competencia digital de forma responsable, segura y crítica.</p>\n<p>Se tienen en cuenta los principios del Diseño Universal para el Aprendizaje (DUA), favoreciendo la inclusión y la atención a la diversidad del alumnado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777572602658-0j64q9u4u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777572602658-0j64q9u4u</odePageId>
+      <odeBlockId>block-1777574638135-pq055d0na</odeBlockId>
+      <blockName>Información</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777572602658-0j64q9u4u</odePageId>
+          <odeBlockId>block-1777574638135-pq055d0na</odeBlockId>
+          <odeIdeviceId>idevice-1777574638134-336irfr6w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Autora: Laura Rodríguez Pérez<br />Centro: CEIP Virgen de la Paz (Vícar, Almería)</p>
+<p>Proyecto: ActívatEF</p>
+<p style="text-align: justify;">Descripción:<br />Este recurso educativo ha sido diseñado como una Situación de Aprendizaje para el área de Educación Física en 6º de Educación Primaria, con el objetivo de fomentar hábitos de vida saludable mediante la actividad física y el uso responsable de las tecnologías digitales.</p>
+<p style="text-align: justify;">Licencia:<br />Este recurso se comparte bajo licencia Creative Commons Reconocimiento - Compartir Igual (CC BY-SA).</p>
+<p style="text-align: justify;">Los recursos utilizados (imágenes, vídeos y materiales digitales) respetan los derechos de autor y han sido seleccionados para uso educativo.</p>
+<p style="text-align: justify;">Este recurso puede ser reutilizado y adaptado para otros contextos educativos, respetando la licencia indicada.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777574638134-336irfr6w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Laura Rodríguez Pérez<br />Centro: CEIP Virgen de la Paz (Vícar, Almería)</p>\n<p>Proyecto: ActívatEF</p>\n<p style=\"text-align: justify;\">Descripción:<br />Este recurso educativo ha sido diseñado como una Situación de Aprendizaje para el área de Educación Física en 6º de Educación Primaria, con el objetivo de fomentar hábitos de vida saludable mediante la actividad física y el uso responsable de las tecnologías digitales.</p>\n<p style=\"text-align: justify;\">Licencia:<br />Este recurso se comparte bajo licencia Creative Commons Reconocimiento - Compartir Igual (CC BY-SA).</p>\n<p style=\"text-align: justify;\">Los recursos utilizados (imágenes, vídeos y materiales digitales) respetan los derechos de autor y han sido seleccionados para uso educativo.</p>\n<p style=\"text-align: justify;\">Este recurso puede ser reutilizado y adaptado para otros contextos educativos, respetando la licencia indicada.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
