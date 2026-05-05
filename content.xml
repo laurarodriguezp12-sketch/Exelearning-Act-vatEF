@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260503124510SL2FYC</value>
+    <value>20260503130520XCKOVY</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202605031245100WWVEW</value>
+    <value>202605031305208EQOA4</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -24,7 +24,7 @@
 <odeProperties>
   <odeProperty>
     <key>pp_title</key>
-    <value>ActívateEF</value>
+    <value>ActívatEF</value>
   </odeProperty>
   <odeProperty>
     <key>pp_subtitle</key>
@@ -56,7 +56,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1777571353177</value>
+    <value>1777806013239</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -368,13 +368,13 @@
   <!-- Idevice content start -->
   
             <div class="imageGallery-IDevice">
-                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777571491010-v3xi0wzf4" title="" href="asset://5c4bd6be-49e3-34ec-7cb2-2cc55ab3595a.png" class="imageLink">  <div class="imageElement">   <img src="asset://5c4bd6be-49e3-34ec-7cb2-2cc55ab3595a.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777571491010-v3xi0wzf4" title="" href="{{context_path}}/content/resources/Protege tu identidad digital.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Protege tu identidad digital.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
                 </div>
             </div>
   <!-- Idevice content end -->
 </div>
 <!-- Idevice Example template end -->]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571491010-v3xi0wzf4","img_0":{"img":"asset://5c4bd6be-49e3-34ec-7cb2-2cc55ab3595a.png","thumbnail":"asset://5c4bd6be-49e3-34ec-7cb2-2cc55ab3595a.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571491010-v3xi0wzf4","img_0":{"img":"{{context_path}}/content/resources/Protege tu identidad digital.png","thumbnail":"{{context_path}}/content/resources/Protege tu identidad digital.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -668,13 +668,13 @@
   <!-- Idevice content start -->
   
             <div class="imageGallery-IDevice">
-                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777572762446-4mclnnyhe" title="" href="asset://fa948933-7a48-bca8-542a-313b8d50bf52.png" class="imageLink">  <div class="imageElement">   <img src="asset://fa948933-7a48-bca8-542a-313b8d50bf52.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777572762446-4mclnnyhe" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 20.12.22.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 20.12.22.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
                 </div>
             </div>
   <!-- Idevice content end -->
 </div>
 <!-- Idevice Example template end -->]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777572762446-4mclnnyhe","img_0":{"img":"asset://fa948933-7a48-bca8-542a-313b8d50bf52.png","thumbnail":"asset://fa948933-7a48-bca8-542a-313b8d50bf52.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777572762446-4mclnnyhe","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 20.12.22.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 20.12.22.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -734,13 +734,13 @@
   <!-- Idevice content start -->
   
             <div class="imageGallery-IDevice">
-                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777571936964-x6b2b0f3s" title="" href="asset://cb7554c1-c5c6-2a72-f431-24ab57fdea1f.png" class="imageLink">  <div class="imageElement">   <img src="asset://cb7554c1-c5c6-2a72-f431-24ab57fdea1f.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777571936964-x6b2b0f3s" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 19.34.28.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 19.34.28.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
                 </div>
             </div>
   <!-- Idevice content end -->
 </div>
 <!-- Idevice Example template end -->]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571936964-x6b2b0f3s","img_0":{"img":"asset://cb7554c1-c5c6-2a72-f431-24ab57fdea1f.png","thumbnail":"asset://cb7554c1-c5c6-2a72-f431-24ab57fdea1f.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777571936964-x6b2b0f3s","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 19.34.28.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 19.34.28.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -832,13 +832,13 @@
   <!-- Idevice content start -->
   
             <div class="imageGallery-IDevice">
-                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777572242012-refhzuaho" title="" href="asset://d986eb36-b8a2-e70c-6cbd-b4e74ed9366b.png" class="imageLink">  <div class="imageElement">   <img src="asset://d986eb36-b8a2-e70c-6cbd-b4e74ed9366b.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1777572242012-refhzuaho" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 20.03.44.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 20.03.44.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
                 </div>
             </div>
   <!-- Idevice content end -->
 </div>
 <!-- Idevice Example template end -->]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777572242012-refhzuaho","img_0":{"img":"asset://d986eb36-b8a2-e70c-6cbd-b4e74ed9366b.png","thumbnail":"asset://d986eb36-b8a2-e70c-6cbd-b4e74ed9366b.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777572242012-refhzuaho","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 20.03.44.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 20.03.44.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -942,9 +942,9 @@
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Esta propuesta está dirigida al alumnado de 6º de Educación Primaria en el área de Educación Física.</p>
-<p>El objetivo principal es fomentar hábitos de vida saludable mediante la actividad física, la reflexión personal y el uso responsable de las tecnologías digitales.<img src="asset://fa948933-7a48-bca8-542a-313b8d50bf52.png" width="1440" height="813" alt="" /></p>
+<p>El objetivo principal es fomentar hábitos de vida saludable mediante la actividad física, la reflexión personal y el uso responsable de las tecnologías digitales.<img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 20.12.22.png" width="1440" height="813" alt="" /></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777574412037-pupudit97","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta propuesta está dirigida al alumnado de 6º de Educación Primaria en el área de Educación Física.</p>\n<p>El objetivo principal es fomentar hábitos de vida saludable mediante la actividad física, la reflexión personal y el uso responsable de las tecnologías digitales.<img src=\"asset://fa948933-7a48-bca8-542a-313b8d50bf52.png\" width=\"1440\" height=\"813\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777574412037-pupudit97","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta propuesta está dirigida al alumnado de 6º de Educación Primaria en el área de Educación Física.</p>\n<p>El objetivo principal es fomentar hábitos de vida saludable mediante la actividad física, la reflexión personal y el uso responsable de las tecnologías digitales.<img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-30 a las 20.12.22.png\" width=\"1440\" height=\"813\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
