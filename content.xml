@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260503130520XCKOVY</value>
+    <value>20260505194317IGQFKP</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202605031305208EQOA4</value>
+    <value>202605051943179WCKH9</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -109,7 +109,7 @@
       <odeBlockId>block-1777571088684-sugf59c2u</odeBlockId>
       <blockName>¿Qué es esto?</blockName>
       <iconName></iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -1055,6 +1055,68 @@
 <p style="text-align: justify;">Este recurso puede ser reutilizado y adaptado para otros contextos educativos, respetando la licencia indicada.</p>
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1777574638134-336irfr6w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autora: Laura Rodríguez Pérez<br />Centro: CEIP Virgen de la Paz (Vícar, Almería)</p>\n<p>Proyecto: ActívatEF</p>\n<p style=\"text-align: justify;\">Descripción:<br />Este recurso educativo ha sido diseñado como una Situación de Aprendizaje para el área de Educación Física en 6º de Educación Primaria, con el objetivo de fomentar hábitos de vida saludable mediante la actividad física y el uso responsable de las tecnologías digitales.</p>\n<p style=\"text-align: justify;\">Licencia:<br />Este recurso se comparte bajo licencia Creative Commons Reconocimiento - Compartir Igual (CC BY-SA).</p>\n<p style=\"text-align: justify;\">Los recursos utilizados (imágenes, vídeos y materiales digitales) respetan los derechos de autor y han sido seleccionados para uso educativo.</p>\n<p style=\"text-align: justify;\">Este recurso puede ser reutilizado y adaptado para otros contextos educativos, respetando la licencia indicada.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777572602658-0j64q9u4u</odePageId>
+      <odeBlockId>block-1777882119685-qt6r96430</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777572602658-0j64q9u4u</odePageId>
+          <odeBlockId>block-1777882119685-qt6r96430</odeBlockId>
+          <odeIdeviceId>idevice-1777882119684-bcv5o7pf6</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">ActívatEF</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Laura Rodríguez Pérez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
